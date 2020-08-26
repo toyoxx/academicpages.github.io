@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter toyoenjapon
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jose Victorio Salazar Luces"
+  avatar           : "files/toyo.jpg"
+  bio              : "Ph.D. in Bioengineering and Robotics, Assistant Prof. at Tohoku Univ. Japan"
+  location         : "Sendai, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=BvS8ZlQAAAAJ&hl=en"
+  email            : "j.salazar@srd.mech.tohoku.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/Jose_Salazar47"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "toyoxx"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "toyoenjapon"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jose-salazar-74500254/"
+  orcid            : "http://orcid.org/https://orcid.org/0000-0003-0556-9194"
   pinterest        :
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "toyoenjapon"
   vine             :
   weibo            :
   xing             :
