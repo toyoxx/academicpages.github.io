@@ -41,13 +41,36 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+
+        {% if page.authors %}<p><i class="fas fa-users" style="padding-right:0.65px"></i> {{  page.authors }} {% endif %}
+       {% if page.affiliations %}<p style="margin-left:5%;margin-top: -20px;"><i></i> {{  page.affiliations }} {% endif %}
+       {% if page.number %}
+                  <p>Published in <i>{{ page.journal }}</i>, {{page.issue}} ({{ page.date | default: "1900-01-01" | date: "%Y" }}) {{page.page}} </p>
+        {% elsif page.issue %}  
+                 <p><i>{{ page.journal }}</i>, {{page.issue}}, {{page.number}} ({{ page.date | default: "1900-01-01" | date: "%Y" }}) {{page.page}}</p>
+        {% endif %}
+
+
+        {% if page.type %}
+        <p> {{page.type}} awarded by {{page.university}} </p>
+        <p><i class="fa fa-calendar-times" style="padding-right:7.4px"></i>  Date awarded: {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
+        <p> Supervised by: {{page.supervisors}} </p>
+        {% endif %}        
+
+        {% if page.doi %}
+         <p> DOI: {{page.doi}} </p>
+         {% endif %}
         
              
         {% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
+
+         {% elsif page.paperurl %}
+            <p>Download <a href=" {{ page.paperurl }} "><u>here</u></a>.</p>
         {% endif %}
+
     
         </header>
       {% endunless %}
