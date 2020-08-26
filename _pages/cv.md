@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Systems Engineering, Los Andes University, Merida, Venezuela, 2010
 * M.S. in Bioengineering and Robotics, Tohoku University, Japan, 2015
-* Ph.D in Robotics, Tohoku University, 2020 (expected)
+* Ph.D in Robotics, Tohoku University, 2018
 
 Work experience
 ======
@@ -76,6 +76,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Affiliations 
 ======
-* Currently signed in to 43 different slack teams
+* Member of IEEE, RSJ and JSME. 
+* Supporting member of the IEEE-RAS Technical Committee on [Robotics Research for Practicality](https://www.ieee-ras.org/robotics-research-for-practicality/contact)
+
+Awards
+======
+* 2013 MEXT Scholarship recipient.
+* 2019 JSME Young Engineers Award by The Japan Society of Mechanical Engineers. 
