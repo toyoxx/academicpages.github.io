@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Systems Engineering, Los Andes University, Merida, Venezuela, 2010
+* M.S. in Bioengineering and Robotics, Tohoku University, Japan, 2015
+* Ph.D in Robotics, Tohoku University, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011 - 2013: Lead iOS Developer
+  * Ogangi Corp.
+  * Duties included: Developing custom Apps for iOS in Objective-C. Developed
+  * Supervisor: Francisco Andrades
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - present : Assistant Professor
+  * Tohoku University
+  * Duties included: Teaching, independent research, academic advising
+  * Supervisor: Professor Yasuhisa Hirata
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming
+  * Experience under Windows, Linux, OSX, QNX environments
+  * Experience using and developing custom solutions in ROS
+  * Preferred programming languages: C++, Java
+  * Experience working with: C, Objective-C, PHP, HTML, CSS, Perl, Python, Bash, Verilog, VHDL
+  * DBMS: PostgreSQL, MySQL and Oracle
+* Electronics & Hardware
+  * CAD Tools: Eagle (circuit design), SolidWorks
+  * Microcontrollers: experience programming PIC, AVR, and Arduino
+  * Embedded platforms: BeagleBone Black, Raspberry Pi, ODROID
+  * CAM experience: 3D Printing, CNC milling and PCB fabrication
+* Industrial Robots  
+  * Experience using industrial manipulators (Mitsubishi PA10, Epson C3, Yaskawa MotoMINI)
+* Office Software
+  * LaTeX, MS Word, MS PowerPoint, MS Excel
+
+* Soft Skills
+
+  * Constant desire to learn, always looking for answers.
+  * Quick learner, never afraid to learn and re-learn.
+  * Persistent when looking for solutions and solving problems.
+  * Concise writing ability and great verbal communication skills in three different languages.
+  * Successfully accomplished tasks before strict deadlines.
+  * Worked well under pressure.
+  * Experienced in problem solving and innovating on solutions.
+  * Has worked effectively independently and as a team member.
+  * Enjoys social interaction, is friendly and extroverted. 
 
 Publications
 ======
