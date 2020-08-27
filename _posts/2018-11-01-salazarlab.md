@@ -18,4 +18,4 @@ We also had several orientations, where they talked about different things, from
 
 Ah, did I mention that my name gets to be in the banner at the entrance of our lab! Let me know if you can read it! :)
 
-![The lab has my name!](/images/blog/salazarlab.jpg)
+![The lab has my name!](/images/blog/2018/salazarlab.jpg)

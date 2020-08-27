@@ -18,4 +18,4 @@ I'm also very happy because my Venezuelan parents managed to come visit and made
 
 Anyways, here's a picture of me on the stage of the Graduation Ceremony. 
 
-![It's done](/images/blog/graduation.jpg)
+![It's done](/images/blog/2018/graduation.jpg)
