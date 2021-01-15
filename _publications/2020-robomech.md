@@ -3,11 +3,11 @@ title: "Design, assessment and evaluation of structural stabilization system for
 collection: publications
 permalink: /publications/2020-robomech
 date: 2020-12-20
-journal: "IEEE Robotics and Automation Letters"
-issue: "5"
-number: "4"
+journal: "ROBOMECH Journal"
+issue: "7"
+number: "30"
 year: "2020"
-page: "5732 - 5739"
+page: ""
 paperurl: 'https://link.springer.com/article/10.1186/s40648-020-00178-x'
 url: 'https://link.springer.com/article/10.1186/s40648-020-00178-x'
 authors: "M.M. Azari<sup>1</sup>, J.V. Salazar L.<sup>1</sup>, Y. Hirata<sup>1</sup>"
