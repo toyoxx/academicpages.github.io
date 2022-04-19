@@ -10,7 +10,7 @@ year: "2021"
 page: "652"
 paperurl: 'https://www.mdpi.com/2227-7102/11/10/652'
 url: 'https://www.mdpi.com/2227-7102/11/10/652'
-authors: "[T. Davey](http://tessadavey.com)<sup>1</sup>, J.V. Salazar L.<sup>2</sup>, R. Davenport<sup>3</sup>"
+authors: "<a href=\"http://tessadavey.com\">T. Davey</a><sup>1</sup>, J.V. Salazar L.<sup>2</sup>, R. Davenport<sup>3</sup>"
 affiliations: "1. Department of Finemechanics, School of Engineering, Tohoku University, Sendai 980-8579, Japan
 <br>2. Department of Robotics, School of Engineering, Tohoku University, Sendai 980-8579, Japan<br>3. 
 Max Born Institute, 12489 Berlin, Germany"
