@@ -42,7 +42,7 @@ Skills
   * Embedded platforms: BeagleBone Black, Raspberry Pi, ODROID
   * CAM experience: 3D Printing, CNC milling and PCB fabrication
 * Industrial Robots  
-  * Experience using industrial manipulators (Mitsubishi PA10, Epson C3, Yaskawa MotoMINI)
+  * Experience using industrial manipulators (Mitsubishi PA10, Epson C3, Yaskawa MotoMINI, Denso VS068/VS087)
 * Office Software
   * LaTeX, MS Word, MS PowerPoint, MS Excel
 

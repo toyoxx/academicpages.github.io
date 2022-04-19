@@ -12,7 +12,7 @@ paperurl: 'https://www.mdpi.com/2227-7102/11/10/652'
 url: 'https://www.mdpi.com/2227-7102/11/10/652'
 authors: "T. Davey<sup>1</sup>, J.V. Salazar L.<sup>2</sup>, R. Davenport<sup>3</sup>"
 affiliations: "1. Department of Finemechanics, School of Engineering, Tohoku University, Sendai 980-8579, Japan
-2. Department of Robotics, School of Engineering, Tohoku University, Sendai 980-8579, Japan<br>3. 
+<br>2. Department of Robotics, School of Engineering, Tohoku University, Sendai 980-8579, Japan<br>3. 
 Max Born Institute, 12489 Berlin, Germany"
 doi: 10.1109/LRA.2021.3068691
 ---
