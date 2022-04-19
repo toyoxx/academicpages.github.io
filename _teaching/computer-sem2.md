@@ -1,5 +1,5 @@
 ---
-title: "Computer Seminar I: Fortran programming"
+title: "Computer Seminar II: Fortran programming"
 collection: teaching
 coursetype: "Undergraduate course"
 permalink: /teaching/computer-sem2
